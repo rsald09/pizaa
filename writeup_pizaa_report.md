@@ -58,5 +58,5 @@ Here is where the code is implemented and integrating with my physical build:
 
 ### Output Video
 
-You can find video of the automated elevator with the rest of the files
+You can find video of the automated elevator with this [link](https://github.com/rsald09/pizaa/blob/master/WIN_20191125_08_34_58_Pro_Trim_Trim_Trim_Trim.mp4)
 
