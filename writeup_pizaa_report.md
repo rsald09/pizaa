@@ -35,7 +35,7 @@ My project includes the following elements to meet the design constraints:
 #### 2. Repeatability of Function - The build is repeatable 100% of the time.
 
 My build includes fischertechnik components to ensure repeatability. For example,...
-
+We added a loop from the end back to the start to ensure repeatability.
 ### ROBOPro Programming Software
 
 #### 1. Design Constraints - All design constraints are met and the prototype goes above and beyond.
@@ -51,7 +51,7 @@ Here are some pictures of my code:
 #### 2. Repeatability of Function - The build is repeatable 100% of the time.
 
 My build includes certain loops and functions to ensure program repeatability. For example,...
-
+Adding a loop from the end of the program back to the start in order to repeat.
 Here is where the code is implemented and integrating with my physical build:
 
 ![image_example2][image2]
